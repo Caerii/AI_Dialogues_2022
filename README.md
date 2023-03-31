@@ -1,4 +1,4 @@
-# These AI Dialogues were created by Alif Jakir (alifnull@mit.edu) and GPT-3 in 2021-2022, primarily.
+# These AI Dialogues were created by Alif Jakir and GPT-3 in 2021-2022, primarily.
 They are meant to illustrate the potential of Artificial Intelligence to reimagine our own conceptions of the world
 Initial prompt, and the first lines of the characters are written by Alif.
 The rest, is driven by taste in generation.
